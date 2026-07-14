@@ -8,10 +8,10 @@ Welcome to my personal LeetCode journey! This repository is a dedicated space wh
 
 | Difficulty | Solved |
 | :--- | :---: |
-| 🟢 **Easy** | 1 |
+| 🟢 **Easy** | 2 |
 | 🟡 **Medium** | 0 |
 | 🔴 **Hard** | 0 |
-| **Total** | **1** |
+| **Total** | **2** |
 
 ---
 
@@ -49,3 +49,9 @@ The problems are categorized by topic and sub-categorized by difficulty (`Easy`,
   - **Category**: Arrays & Hashing
   - **Solution**: [Two Sum.py](file:///c:/Work_folder/Git_hub_projects/Leet_code/cracking-the-leetcode/Arrays%20&%20Hashing/Easy/Two%20Sum.py)
   - **Key Concept**: Hash map for $\mathcal{O}(n)$ lookup time.
+
+#### Day 2 (July 14, 2026)
+- [x] **Valid Anagram** 🟢
+  - **Category**: Arrays & Hashing
+  - **Solution**: [valid-anagram.py](file:///c:/Work_folder/Git_hub_projects/Leet_code/cracking-the-leetcode/Arrays%20&%20Hashing/Easy/valid-anagram.py)
+  - **Key Concept**: Frequency tracking using hash maps (dictionaries) or character counting.
